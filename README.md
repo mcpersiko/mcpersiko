@@ -6,7 +6,7 @@
 
 👋 Hi, I’m @mcpersiko<br>
 👀 I advocate for best DevOps practices in public and private clouds.<br>
-🌱 I’m currently learning Kafka and Python.<br>
+🌱 I’m currently learning Kafka, Python, ArgoCD, Prometheus, and Grafana.<br>
 
 <!---
 mcpersiko/mcpersiko is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
