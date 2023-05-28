@@ -5,7 +5,7 @@
 ## Who Am I?
 
 👋 Hi, I’m @mcpersiko<br>
-👀 I’m interested in DevOps and Edge Computing.<br>
+👀 I advocate for best DevOps practices from the cloud to the edge.<br>
 🌱 I’m currently learning Kafka and Python.<br>
 
 <!---
